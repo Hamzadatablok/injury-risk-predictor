@@ -1,0 +1,15 @@
+{
+  "name": "Yassine",
+  "age": 24,
+  "sport": "Football",
+  "daily_loads": [
+    300, 280, 0, 320, 290, 350, 0,
+    310, 300, 0, 330, 280, 360, 0,
+    320, 310, 0, 340, 300, 370, 0,
+    480, 520, 450, 600, 500, 650, 80
+  ],
+  "avg_sleep_hours": 5.5,
+  "resting_hr": 74,
+  "previous_injuries": 2,
+  "soreness_1_to_10": 8
+}
