@@ -1,5 +1,7 @@
 # 🏥 Injury Risk Assessment — Multi-Agent AI System
 
+> 🌐 [النسخة العربية (README بالعربية)](README_AR.md) · 📄 [شرح المشروع بالعربية (PDF)](docs/شرح_المشروع_بالعربية.pdf)
+
 A multi-agent AI system (CrewAI) that assesses athlete injury risk using real
 sports-science metrics (Acute:Chronic Workload Ratio) and produces a structured,
 validated prevention plan.
